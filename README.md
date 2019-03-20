@@ -5,8 +5,8 @@ Asset Pricing Model in Python.
 
 Contents:
 
-1. return-risk-single.ipynb - To calculate the annual return and volatility of a single stock and basic visualizations.
-2. return-risk-portfolio.ipynb - To calculate the annual return, volatility, diversifiable risk of a portfolio of stocks. Also
+1. return-risk-single - To calculate the annual return and volatility of a single stock and basic visualizations.
+2. return-risk-portfolio - To calculate the annual return, volatility, diversifiable risk of a portfolio of stocks. Also
 includes a comparison with a stock index (S&P500)
-3. ef-2-assets - To calculate the return and volatility of random portfolios containing two risky assets, to plot them and identify the efficient frontier
-
+3. ef-2-assets - To calculate the return and volatility of random portfolios containing two risky assets, to plot them and visually identify the efficient frontier
+4. mvo-portfolio-risky - To calculate the return and volatility of a portfolio containing many risky assets, to plot them and to rigorously calculate the efficient frontier using a mean variance optimizer function.
