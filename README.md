@@ -10,3 +10,4 @@ Contents:
 includes a comparison with a stock index (S&P500)
 3. ef-2-assets - To calculate the return and volatility of random portfolios containing two risky assets, to plot them and visually identify the efficient frontier
 4. mvo-portfolio-risky - To calculate the return and volatility of a portfolio containing many risky assets, to plot them and to rigorously calculate the efficient frontier using a mean variance optimizer function.
+5. two-fund-theorem - To calculate the return and volatility of a portfolio containing many risky assets and one riskfree asset. Here we also demonstrate the two-fund theorem
