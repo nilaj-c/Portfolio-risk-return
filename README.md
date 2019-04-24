@@ -1,7 +1,6 @@
-# Capital-Asset-Pricing-Model
+# Portfolio-risk-return
 
-Repository for codes related to finding the return and risk of securities, mean-variance optimization and implementing the Capital
-Asset Pricing Model in Python.
+Repository for codes related to finding the return and risk of securities and portfolios, mean-variance optimization and implementing the Capital Asset Pricing Model in Python.
 
 Contents:
 
