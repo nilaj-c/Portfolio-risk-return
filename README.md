@@ -4,7 +4,7 @@ Repository for codes related to finding the return and risk of securities and po
 
 Contents:
 
-1. return-risk-single - To calculate the annual return and volatility of a single stock and basic visualizations.
+1. <strong> return-risk-single </strong>- To calculate the annual return and volatility of a single stock and basic visualizations.
 2. return-risk-portfolio - To calculate the annual return, volatility, diversifiable risk of a portfolio of stocks. Also
 includes a comparison with a stock index (S&P500)
 3. ef-2-assets - To calculate the return and volatility of random portfolios containing two risky assets, to plot them and visually identify the efficient frontier
