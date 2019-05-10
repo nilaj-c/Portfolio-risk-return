@@ -10,4 +10,5 @@ Contents:
 4.  <strong> mvo-portfolio-risky  </strong> - To calculate the return and volatility of a portfolio containing many risky assets, to plot them and to rigorously calculate the efficient frontier using a mean variance optimizer function.
 5.  <strong> two-fund-theorem  </strong>- To calculate the return and volatility of a portfolio containing many risky assets and one riskfree asset. Here we also demonstrate the two-fund theorem
 6.  <strong> beta-linreg  </strong> - To calculate the beta of a stock using linear regression in Python
+7. <strong> var-single-asset </strong> - To calculate the Value-at-Risk of a single asset using historical returns in Python
 
